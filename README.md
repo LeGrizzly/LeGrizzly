@@ -1,45 +1,41 @@
-<h1 align="center">Hi 🐻, I'm LeGrizzly
-<br><span style="font-size: small; color: gray;">My discord tag : legrizzly_0341</span>
-<br><span style="font-size: small; color: gray;">My discord server : https://discord.gg/vMaSpKUS4J</span>
-</h1>
+<h1 align="center">Hi 🐻, I'm LeGrizzly</h1>
+<h3 align="center">Freelance Engineer, Open-Source Contributor & TypeScript Expert</h3>
 
-### Languages
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/xalsie)
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/xalsie)
-[![LUA](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=blue)](https://github.com/xalsie)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/xalsie)
+<br/>
 
-### Frameworks, Platforms and Libraries
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/legrizzly)
-[![VueJS](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue.js)](https://github.com/xalsie)
-[![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/xalsie)
-[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/xalsie)
-[![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)](https://github.com/xalsie)
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://hub.docker.com/u/legrizzly)
-[![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=Symfony)](https://hub.docker.com/u/legrizzly)
-
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/xalsie)
-[![Windows](https://img.shields.io/badge/Windows11-black?style=for-the-badge&logo=windows)](https://github.com/xalsie)
-[![Mac](https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=mac)](https://github.com/xalsie)
+<p align="center">I'm passionate about building robust and scalable applications, with a focus on clean code and a great user experience. Feel free to contact me for any collaboration!</p>
 
 <p align="center">
-	<a href="https://github.com/xalsie">
-		<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xalsie&theme=transparent">
-	</a>
-	<a href="https://github.com/xalsie">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=xalsie&hide_border=true&card_width=338&theme=transparent">
-	</a>
-	<a href="https://github.com/xalsie">
-		<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xalsie&theme=transparent">
-	</a>
-	<a href="https://github.com/xalsie">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalsie&card_width=699&hide_border=true&theme=transparent">
-	</a>
+  <!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="xalsie" height="40" width="40" /></a> -->
+  <a href="https://discord.gg/vMaSpKUS4J" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="your-discord" height="40" width="40" /></a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/xalsie">
-		<img src="https://komarev.com/ghpvc/?username=xalsie&color=blue&style=flat">
-	</a>
-</p>
+---
+
+<h2 align="center">🚀 My Tech Stack 🚀</h2>
+<div align="center">
+    <em>Here are the technologies I work with on a daily basis.</em>
+</div>
+<br/>
+<div align="center">
+    <p><strong>TypeScript & JavaScript</strong></p>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,deno,bun" />
+    <p><strong>Frontend</strong></p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,vite" />
+    <p><strong>Backend & Databases</strong></p>
+    <img src="https://skillicons.dev/icons?i=nestjs,express,postgres,mysql,mongodb,redis,lua" />
+    <p><strong>Testing & DevOps</strong></p>
+    <img src="https://skillicons.dev/icons?i=jest,docker,aws,githubactions,ansible,terraform,linux" />
+    <p><strong>Tools</strong></p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=75% src="https://github-readme-stats-fast.vercel.app/api/streak?username=LeGrizzly&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width=75% src="https://github-readme-stats-fast.vercel.app/api?username=LeGrizzly&show_icons=true&theme=tokyonight&border_radius=10" alt="readme stats" />
+  <img width=75% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LeGrizzly&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
+</div>
