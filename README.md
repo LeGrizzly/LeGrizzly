@@ -39,3 +39,11 @@
   <img width=75% src="https://github-readme-stats-fast.vercel.app/api?username=LeGrizzly&show_icons=true&theme=tokyonight&border_radius=10" alt="readme stats" />
   <img width=75% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LeGrizzly&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
 </div>
+
+<br/><hr/><br/>
+
+<p align="center">
+	<a href="https://github.com/LeGrizzly">
+		<img src="https://komarev.com/ghpvc/?username=LeGrizzly&color=blue&style=flat-square&base=1400&abbreviated=true" alt="Profile views" />
+	</a>
+</p>
